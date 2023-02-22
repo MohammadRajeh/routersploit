@@ -96,7 +96,7 @@ python3 rsf.py
 ## Running on Docker
 
 ```
-git clone https://www.github.com/threat9/routersploit
+git clone https://www.github.com/MohammadRajeh/routersploit
 cd routersploit
 docker build -t routersploit .
 docker run -it --rm routersploit
