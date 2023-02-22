@@ -1,0 +1,22 @@
+Cloud Computing
+https://www.ibm.com/topics/cloud-computing
+IoT Lab:
+search using shodan.io
+
+using IP 103.192.152.180
+using tool routersploit
+
+
+
+[+] 119.29.10.14 Device is vulnerable:
+
+   Target           Port     Service     Exploit
+   ------           ----     -------     -------
+   119.29.10.14     80       http        exploits/cameras/cisco/video_surv_path_traversal
+   119.29.10.14     80       http        exploits/cameras/multi/jvc_vanderbilt_honeywell_path_traversal
+   119.29.10.14     80       http        exploits/cameras/honeywell/hicc_1100pt_password_disclosure
+   119.29.10.14     80       http        exploits/cameras/avigilon/videoiq_camera_path_traversal
+   119.29.10.14     80       http        exploits/cameras/multi/netwave_ip_camera_information_disclosure
+   119.29.10.14     80       http        exploits/cameras/xiongmai/uc_httpd_path_traversal
+   119.29.10.14     80       http        exploits/cameras/brickcom/corp_network_cameras_conf_disclosure
+   119.29.10.14     80       http        exploits/cameras/siemens/cvms2025_credentials_disclosure
